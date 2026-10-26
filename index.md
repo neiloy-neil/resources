@@ -12,6 +12,9 @@ Plain, practical checklists from [The Digital Dude](https://www.digitaldude.co.u
 - **[Custom store or Shopify? A decision checklist](https://gist.github.com/neiloy-neil/0369c0b147eb8d35a3bc72d45aecf950)**. Full comparison: [Custom e-commerce vs Shopify](https://www.digitaldude.co.uk/compare/custom-ecommerce-vs-shopify).
 - **[Questions to ask any AI phone ordering vendor](https://gist.github.com/neiloy-neil/a16b5895de204052f2cf7e42ca6a4305)**. Full guide: [AI phone ordering for restaurants: build or buy](https://www.digitaldude.co.uk/blog/ai-phone-ordering-for-restaurants-build-or-buy).
 
+## Slides
+- **[Custom or off-the-shelf software? How to decide](https://gamma.app/docs/Custom-or-off-the-shelf-software-How-to-decide-k805jq033m9ttx1)**: an 8-slide deck on when to buy and when to build.
+
 ## Search and paid media
 - **[Google Ads keyword intent worksheet](https://gist.github.com/neiloy-neil/f784bcbaf5349193da87e700bbe6ca57)**. Full guide: [Google Ads for software development companies](https://www.digitaldude.co.uk/blog/google-ads-for-software-development-companies).
 - **[Programmatic SEO quality gate](https://gist.github.com/neiloy-neil/639a45ea1caba311a4b9d4b458681183)**. Full guide: [Programmatic SEO for service businesses](https://www.digitaldude.co.uk/blog/programmatic-seo-for-service-businesses).
