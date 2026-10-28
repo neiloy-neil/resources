@@ -24,6 +24,6 @@ Plain, practical checklists from [The Digital Dude](https://www.digitaldude.co.u
 - [BizTrackBD: multi-tenant e-commerce for Bangladesh](https://www.digitaldude.co.uk/work/biztrackbd-ecommerce-platform) (open source: [github.com/neiloy-neil/biztrackbd-ecom](https://github.com/neiloy-neil/biztrackbd-ecom))
 - [ReachMira outreach CRM](https://www.digitaldude.co.uk/work/reachmira-outreach-crm) (open source: [github.com/neiloy-neil/the-digital-dude-outreach-os](https://github.com/neiloy-neil/the-digital-dude-outreach-os))
 
-Find us on [LinkedIn](https://www.linkedin.com/company/td-dude).
+Find us on [GoodFirms](https://www.goodfirms.co/company/the-digital-dude) and [LinkedIn](https://www.linkedin.com/company/td-dude).
 
 Want to talk through a project? [Book a 30-minute discovery call](https://www.digitaldude.co.uk/contact).
